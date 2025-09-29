@@ -68,5 +68,5 @@
 ###
 
 <div align="center">
-  <img src="https://github.com/Ayeshanazeer71/Ayeshanazeer71/blob/output/github-snake-dark.svg" alt="snake gif" />
+  <img src="https://github.com/Ayeshanazeer71/Ayeshanazeer71/github-snake-dark.svg" alt="snake gif" />
 </div>
